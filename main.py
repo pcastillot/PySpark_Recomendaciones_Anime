@@ -18,7 +18,7 @@ def getDFCompleto(df):
     df_completo.columns = ['anime_id'] # Asignamos un nombre a la columna
     df_completo = spark.createDataFrame(df_completo)
     df_completo = df_completo.join(anime, anime.ID == df_completo.anime_id) # Lo unimos con los datos del df anime
-    df_completo = df_completo.select('Name', 'Genres', 'English name', 'Type', 'Aired', 'Japanese name', 'rating_anime')
+    df_completo = df_completo.select('Name', 'Genres', 'English name', 'Type', 'Aired', 'Japanese name', 'Score')
 
     return df_completo
 

@@ -1,35 +1,35 @@
-Pelicula Recomendada: 30054
-Nombre en inglés: Uli Sai Jjang-Iya
-Nombre en japonés: Unknown
-Género: 30054
-Tipo: Unknown
-Emitido: School
+Pelicula Recomendada: Ookami Shounen Ken: Arabia no Kaijin - Ma no Iwa no Kettou
+Nombre en inglés: Unknown
+Nombre en japonés: 狼少年ケン アラビアの怪人 魔の岩の決闘
+Género: Adventure, Kids
+Tipo: Movie
+Emitido: Mar 22, 1964
 --------------------------------------------------------
-Pelicula Recomendada: 17104
-Nombre en inglés: Lolling Seutajeu (Movie)
-Nombre en japonés: Rolling Stars (Movie)
-Género: 17104
-Tipo: Unknown
-Emitido: Kids, Sports
+Pelicula Recomendada: Chuuchuu Banban
+Nombre en inglés: Unknown
+Nombre en japonés: チュウチュウバンバン
+Género: Adventure, Kids
+Tipo: Movie
+Emitido: Mar 17, 1970
 --------------------------------------------------------
-Pelicula Recomendada: 31463
-Nombre en inglés: Maemilggot, Unsu Joeun Nal, Geurigo Bombom
-Nombre en japonés: The Road Called Life
-Género: 31463
-Tipo: Unknown
-Emitido: Drama, Slice of Life
+Pelicula Recomendada: Hikoichi Tonchi Banashi
+Nombre en inglés: Hikoichi's Wits
+Nombre en japonés: 彦一とんちばなし
+Género: Historical
+Tipo: Movie
+Emitido: 1970
 --------------------------------------------------------
-Pelicula Recomendada: 23617
-Nombre en inglés: Sore Ike! Anpanman: Ringo Boy to Minna no Negai
-Nombre en japonés: Unknown
-Género: 23617
-Tipo: Unknown
-Emitido: Kids, Fantasy, Comedy
+Pelicula Recomendada: Okori Jizou
+Nombre en inglés: Unknown
+Nombre en japonés: おこりじぞう
+Género: Historical, Kids
+Tipo: Movie
+Emitido: Jun 15, 1983
 --------------------------------------------------------
-Pelicula Recomendada: 29832
-Nombre en inglés: Panpaka Pants Movie: Bananan Oukoku no Hihou
-Nombre en japonés: Unknown
-Género: 29832
-Tipo: Unknown
-Emitido: Adventure, Kids
+Pelicula Recomendada: Harbor Tale
+Nombre en inglés: Harbor Tale:a red brick
+Nombre en japonés: ハーバーテイル
+Género: Adventure, Fantasy
+Tipo: Movie
+Emitido: 2011
 --------------------------------------------------------

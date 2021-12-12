@@ -1,8 +1,5 @@
 import csv
-import os.path
-import pickle
 import pandas as pd
-from pyspark import SparkContext
 from pyspark.ml.evaluation import RegressionEvaluator
 from pyspark.ml.recommendation import ALS
 from pyspark.sql import SparkSession
@@ -23,6 +20,7 @@ def getDFCompleto(df):
     df_completo.columns = ['anime_id']
     df_completo = spark.createDataFrame(df_completo)
     df_completo = df_completo.join(anime, anime.ID == df_completo.anime_id)
+    df_completo = df_completo.select('Name', 'Genres', 'English name', 'Type', 'Aired', 'Japanese name')
 
     return df_completo
 
